@@ -1,0 +1,6 @@
+[submodule "desktop-gh"]
+	path = desktop-gh
+	url = https://github.com/doshareme/desktop
+[submodule "server-gh"]
+	path = server-gh
+	url = https://github.com/doshareme/server
